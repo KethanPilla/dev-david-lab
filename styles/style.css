@@ -34,8 +34,8 @@ h5, p {
 }
 
 img {
-    height: 100px; 
-    max-width: 100px; 
+    height: 750px; 
+    max-width: 750px; 
     position: absolute;
     cursor: grab;
     z-index: 1;
@@ -74,7 +74,7 @@ footer {
     }
 
     img {
-        height: 80px; 
-        max-width: 80px; 
+        height: 150px; 
+        max-width: 150px; 
     }
 }
